@@ -3,6 +3,7 @@
  * SPDX-License-Identifier: MIT
  */
 import dataErasure from './routes/dataErasure'
+
 const startTime = Date.now()
 const path = require('path')
 import fs = require('fs')
